@@ -1,2 +1,2 @@
 value_a = 24
-print("square of 24 is :", 24**2)
+print("cube of 24 is :", 24**3)
